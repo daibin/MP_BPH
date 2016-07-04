@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/id_map_common"
+        app:showAsAction="never"
+        android:title="普通地图"/>
+    <item
+        android:id="@+id/id_map_satellite"
+        app:showAsAction="never"
+        android:title="卫星地图"/>
+    <item
+    android:id="@+id/id_map_traffic"
+    app:showAsAction="never"
+    android:title="实施交通(off)"/>
+    <item
+        android:id="@+id/id_map_offline"
+        app:showAsAction="never"
+        android:title="下载离线地图"/>
+
+</menu>

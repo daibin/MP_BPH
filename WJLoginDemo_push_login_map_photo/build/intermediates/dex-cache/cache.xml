@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_c3089583392f15293361877a24eb70628a4f8b03.jar" />
+    </item>
+    <item
+        jar="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_0f06875e090eacdc2ca1412f59002b2995792a70.jar" />
+    </item>
+    <item
+        jar="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_1f26564dcd396c062a7ae688ccc9118b1546db15.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_82165e1e65f3f6440043e8c606d9bef69a69a37f.jar" />
+    </item>
+    <item
+        jar="E:\Git\WJLoginDemo_push_login_map_photo\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\volley_e98d24737b24f052fbcd5f4fe964711478bf31e0.jar" />
+    </item>
+    <item
+        jar="E:\Git\WJLoginDemo_push_login_map_photo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9b64ebdbeb3e2c9a02e0b4acea8f286cf750a07a">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_095960f698dc318c3b7a8082dd9747d2efb01098.jar" />
+    </item>
+    <item
+        jar="E:\Git\WJLoginDemo_push_login_map_photo\app\libs\litepal-1.3.0-src.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d44097cca10e7c6259854ca12e4d7ce46b991e8d">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\litepal-1.3.0-src_e001f6232da3dd567fe5b1af4ad13bed1e36bea3.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.4.1.2\64950d33e2d3095cc831b414063bea45524103d4\httpclient-4.4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="64950d33e2d3095cc831b414063bea45524103d4">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\httpclient-4.4.1.2_4f339f047fe7af8966559f84b101d3ef9209f466.jar" />
+    </item>
+    <item
+        jar="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_dce2b1500d390e4d146173f9e2cfb05faa856a38.jar" />
+    </item>
+    <item
+        jar="D:\JavaUtils\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_0b57d4d659673b4c5fed482b9061befdb059bc26.jar" />
+    </item>
+    <item
+        jar="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_a5815a1d385f58f85c91b63fd7da9ab6bf591420.jar" />
+    </item>
+    <item
+        jar="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_e6e8ae47794794bc9f3172b5c09bc08836cb2033.jar" />
+    </item>
+    <item
+        jar="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\Git\WJLoginDemo_push_login_map_photo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_5bf4f8cb157e70a38b78195b48e7e6e534ef4455.jar" />
+    </item>
+
+</items>

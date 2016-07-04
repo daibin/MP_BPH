@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">appController/login.do?</string>
+    <string name="insert">client/coordinate/insert.do?</string>
+    <string name="signInOrOut">appController/signInOrOut.do?</string>
+    <string name="heart">appController/heart.do?</string>
+</resources>
